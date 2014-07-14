@@ -50,7 +50,7 @@ Public Class Form1
         'page.SlideSide = eSlideSide.Right
         'page.IsOpen = True
         Console.WriteLine("test")
-        Console.WriteLine("test2")
+        Console.WriteLine("test from GitHub")
 
     End Sub
 
