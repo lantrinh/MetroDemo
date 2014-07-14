@@ -49,7 +49,7 @@ Public Class Form1
         'page.BringToFront()
         'page.SlideSide = eSlideSide.Right
         'page.IsOpen = True
-
+        Console.WriteLine("test")
     End Sub
 
 #Region "Change Page"
